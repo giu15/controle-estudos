@@ -1,4 +1,4 @@
-Conceitos básicos do git:
+Conceitos bássicos do git:
 
 
 Git é um sistema de controle de versão distribuído que rastreia mudanças no código-fonte. Conceitos chave incluem: Repositório (pasta do projeto com histórico), Commit (snapshot/salvamento), Staging Area (preparação) e Branches (linhas de desenvolvimento paralelas).
