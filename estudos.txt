@@ -1,0 +1,12 @@
+Conceitos básicos do git:
+
+
+Git é um sistema de controle de versão distribuído que rastreia mudanças no código-fonte. Conceitos chave incluem: Repositório (pasta do projeto com histórico), Commit (snapshot/salvamento), Staging Area (preparação) e Branches (linhas de desenvolvimento paralelas).
+
+GitHub: repositórios
+
+Um repositório no GitHub é o local de armazenamento centralizado de um projeto, funcionando como uma pasta na nuvem que guarda todos os arquivos de código, imagens, documentação e o histórico completo de alterações (commits). Ele permite colaboração, versionamento e controle de fluxo de trabalho para desenvolvedores. 
+
+VS Code: integração com Git
+
+O Visual Studio Code (VS Code) possui integração nativa com o Git, permitindo gerenciar repositórios (commit, push, pull, branch) diretamente pela aba "Source Control" (ícone de ramificação) ou pelo terminal integrado. Requer o Git instalado na máquina, oferecendo controle visual de alterações, resolução de conflitos e sincronização com GitHub.
